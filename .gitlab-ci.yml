@@ -1,0 +1,5 @@
+# https://code.hzmantu.com/mainto-tech-internal/ci-template/tree/master/fed
+include:
+  - project: 'mainto-tech-internal/ci-template'
+    ref: master
+    file: '/fed/root.yaml'
